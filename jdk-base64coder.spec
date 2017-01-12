@@ -4,7 +4,7 @@
 #
 Name     : jdk-base64coder
 Version  : 1
-Release  : 1
+Release  : 2
 URL      : http://repo2.maven.org/maven2/biz/source_code/base64coder/2010-12-19/base64coder-2010-12-19-distribution.zip
 Source0  : http://repo2.maven.org/maven2/biz/source_code/base64coder/2010-12-19/base64coder-2010-12-19-distribution.zip
 Summary  : No detailed summary available
